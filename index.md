@@ -11,5 +11,5 @@ I'm really excited to blog my journey on GitHub.com
 
 # Get in Touch
 <ul>
-<li><a href="https://github.com/{{github.com/Abacus8800}}"</a></li>
+<li><a href="https://github.com/{{ site.Abacus8800 }}"</a></li>
 </ul>
